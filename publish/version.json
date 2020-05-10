@@ -1,7 +1,11 @@
 {
-  "version": "0.1.2",
-  "desc": "<h3>howtoworkup</h3>\n",
+  "version": "0.1.3",
+  "desc": "<h3>学习上传</h3>\n",
   "history": [
+    {
+      "version": "0.1.2",
+      "desc": "<h3>howtoworkup</h3>\n"
+    },
     {
       "version": "0.1.1",
       "desc": "<h3>howtoworkup</h3>\n"
