@@ -5,7 +5,7 @@ import { author, name } from '../../../package.json'
 export default {
   getVersionInfo(state, retryNum = 0) {
     return new Promise((resolve, reject) => {
-      httpGet(`https://raw.githubusercontent.com/${author.name}/${name}/master/publish/version.json`, {
+      httpGet(`https://raw.githubusercontent.com/AlexHsu1987/EV-moban/master/publish/version.json`, {
         timeout: 20000,
       }, (err, resp, body) => {
         if (err) {
@@ -19,7 +19,7 @@ export default {
   },
   getVersionInfo2(state, retryNum = 0) {
     return new Promise((resolve, reject) => {
-      httpGet('https://cdn.stsky.cn/lx-music/desktop/version.json', {
+      httpGet('https://raw.githubusercontent.com/AlexHsu1987/EV-moban/master/publish/version.json', {
         timeout: 20000,
       }, (err, resp, body) => {
         if (err) {

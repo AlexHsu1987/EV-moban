@@ -44,7 +44,7 @@ material-modal(:show="version.showModal" @close="handleClose" v-if="version.newV
         p 发现有新版本啦，但是自动更新功能出问题了，
         p
           | 你可以去&nbsp;
-          strong.hover.underline(@click="handleOpenUrl('https://github.com/lyswhut/lx-music-desktop/releases')" title="点击打开") 软件发布页
+          strong.hover.underline(@click="handleOpenUrl('https://github.com/AlexHsu1987/EV-moban/releases')" title="点击打开") 软件发布页
           | &nbsp;或&nbsp;
           strong.hover.underline(@click="handleOpenUrl('https://www.lanzous.com/b906260/')" title="点击打开") 网盘
           | (密码：
@@ -61,7 +61,7 @@ material-modal(:show="version.showModal" @close="handleClose" v-if="version.newV
       p 你当前所在网络访问GitHub较慢，导致新版本下载超时（已经下了半个钟了😳），建议手动更新版本！
       p
         | 你可以去
-        material-btn(min @click="handleOpenUrl('https://github.com/lyswhut/lx-music-desktop/releases')" title="点击打开") 软件发布页
+        material-btn(min @click="handleOpenUrl('https://github.com/AlexHsu1987/EV-moban/releases')" title="点击打开") 软件发布页
         | 或
         material-btn(min @click="handleOpenUrl('https://www.lanzous.com/b906260/')" title="点击打开") 网盘
         | (密码：
@@ -82,7 +82,7 @@ material-modal(:show="version.showModal" @close="handleClose" v-if="version.newV
           p 更新信息获取失败，可能是无法访问Github导致的，请手动检查更新！
           p
             | 检查方法：打开
-            material-btn(min @click="handleOpenUrl('https://github.com/lyswhut/lx-music-desktop/releases')" title="点击打开") 软件发布页
+            material-btn(min @click="handleOpenUrl('https://github.com/AlexHsu1987/EV-moban/releases')" title="点击打开") 软件发布页
             | 或
             material-btn(min @click="handleOpenUrl('https://www.lanzous.com/b906260/')" title="点击打开") 网盘
             | (密码：
@@ -115,7 +115,7 @@ material-modal(:show="version.showModal" @close="handleClose" v-if="version.newV
           | 重新打开本弹窗。
         p
           | 手动更新可以去&nbsp;
-          strong.hover.underline(@click="handleOpenUrl('https://github.com/lyswhut/lx-music-desktop/releases')" title="点击打开") 软件发布页
+          strong.hover.underline(@click="handleOpenUrl('https://github.com/AlexHsu1987/EV-moban/releases')" title="点击打开") 软件发布页
           | &nbsp;或&nbsp;
           strong.hover.underline(@click="handleOpenUrl('https://www.lanzous.com/b906260/')" title="点击打开") 网盘
           | (密码：
