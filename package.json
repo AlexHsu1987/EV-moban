@@ -1,6 +1,6 @@
 {
   "name": "ev-moban-desktop",
-  "version": "0.1.1",
+  "version": "0.1.0",
   "description": "这是一个Electron Vue应用模板",
   "main": "./dist/electron/main.js",
   "productName": "EV-moban",
