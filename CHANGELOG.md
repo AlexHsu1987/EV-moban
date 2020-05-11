@@ -1,3 +1,6 @@
+## [0.1.1](https://github.com/AlexHsu1987/EV-moban/compare/v0.1.6...v0.1.1) - 2020-05-11
+
+### 初始上传
 ## [0.1.6](https://github.com/AlexHsu1987/EV-moban/compare/v0.1.5...v0.1.6) - 2020-05-11
 
 ### 自动更新OK了吗？

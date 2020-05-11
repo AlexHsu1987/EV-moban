@@ -1,6 +1,10 @@
 {
-  "version": "0.1.0",
-  "desc": "",
+  "version": "0.1.1",
+  "desc": "<h3>初始上传</h3>\n",
   "history": [
+    {
+      "version": "0.1.0",
+      "desc": ""
+    }
   ]
 }
